@@ -1,0 +1,1 @@
+Opis projektu znajduje się w pliku 'Filip_Mazur_Projekt_BD1.pdf'.
